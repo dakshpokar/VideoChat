@@ -1,4 +1,4 @@
 # VideoChat
 Video Chat Application
 <br>
-Welcome to GITHUB REPOSITORY
+A simple Video Chat application using Django
